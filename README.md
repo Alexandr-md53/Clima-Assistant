@@ -16,7 +16,7 @@ Operates in Russian and Romanian. Includes visual scenarios, avatar, and present
 
 ## 📂 Презентации/ Presentations / Prezentări
 
-- 🇷🇺 [Русская версия](ссылка)
+- 🇷🇺 [Русская версия](https://github.com/Alexandr-md53/Clima-Assistant/blob/main/climaAssistant_ru.pdf)
 - 🇷🇴 [Versiunea română](https://github.com/Alexandr-md53/Clima-Assistant/blob/main/climaAssistant_ro.pdf )
 - 🇬🇧 [English version](ссылка)
 
