@@ -18,7 +18,7 @@ Operates in Russian and Romanian. Includes visual scenarios, avatar, and present
 
 - 🇷🇺 [Русская версия](https://github.com/Alexandr-md53/Clima-Assistant/blob/main/climaAssistant_ru.pdf)
 - 🇷🇴 [Versiunea română](https://github.com/Alexandr-md53/Clima-Assistant/blob/main/climaAssistant_ro.pdf )
-- 🇬🇧 [English version](ссылка)
+- 🇬🇧 [English version](https://github.com/Alexandr-md53/Clima-Assistant/blob/main/climaAssistant_en.pdf)
 
 ## 🧠 Особенности /peculiarities / Particularități
 
